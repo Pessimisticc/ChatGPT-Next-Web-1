@@ -7,7 +7,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized: isApp
-      ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
+      ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。购买GPT4 Key请联系QQ：2296388043"
       : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
   },
   Auth: {
@@ -298,7 +298,7 @@ const cn = {
       Azure: {
         ApiKey: {
           Title: "接口密钥",
-          SubTitle: "使用自定义 Azure Key 绕过密码访问限制",
+          SubTitle: "使用自定义 Azure Key 绕过密码访问限制，需要购买ChatGPTKey 请联系QQ：2296388043",
           Placeholder: "Azure API Key",
         },
 
